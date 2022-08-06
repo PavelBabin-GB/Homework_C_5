@@ -1,0 +1,15 @@
+D:\Гик Брайнс\Homework_C#_5\task36\bin\Debug\net6.0\task36.exe
+D:\Гик Брайнс\Homework_C#_5\task36\bin\Debug\net6.0\task36.deps.json
+D:\Гик Брайнс\Homework_C#_5\task36\bin\Debug\net6.0\task36.runtimeconfig.json
+D:\Гик Брайнс\Homework_C#_5\task36\bin\Debug\net6.0\task36.dll
+D:\Гик Брайнс\Homework_C#_5\task36\bin\Debug\net6.0\task36.pdb
+D:\Гик Брайнс\Homework_C#_5\task36\obj\Debug\net6.0\task36.csproj.AssemblyReference.cache
+D:\Гик Брайнс\Homework_C#_5\task36\obj\Debug\net6.0\task36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Гик Брайнс\Homework_C#_5\task36\obj\Debug\net6.0\task36.AssemblyInfoInputs.cache
+D:\Гик Брайнс\Homework_C#_5\task36\obj\Debug\net6.0\task36.AssemblyInfo.cs
+D:\Гик Брайнс\Homework_C#_5\task36\obj\Debug\net6.0\task36.csproj.CoreCompileInputs.cache
+D:\Гик Брайнс\Homework_C#_5\task36\obj\Debug\net6.0\task36.dll
+D:\Гик Брайнс\Homework_C#_5\task36\obj\Debug\net6.0\refint\task36.dll
+D:\Гик Брайнс\Homework_C#_5\task36\obj\Debug\net6.0\task36.pdb
+D:\Гик Брайнс\Homework_C#_5\task36\obj\Debug\net6.0\task36.genruntimeconfig.cache
+D:\Гик Брайнс\Homework_C#_5\task36\obj\Debug\net6.0\ref\task36.dll
